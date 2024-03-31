@@ -1,2 +1,3 @@
-langcahin
+langchain_openai
 openai
+streamlit
